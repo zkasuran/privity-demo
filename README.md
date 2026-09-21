@@ -5,7 +5,7 @@ Live demo for **Privity**, a HackCanton Season 3 entry in the Investment Infrast
 Both legs of a tokenized fund trade settle in one Canton transaction, and each counterparty
 is shown only the parcel it is buying.
 
-This repository holds the static demo page only. It exists so the demo has a public URL that
+This repository holds the public site: a landing page at the root explaining the product, and the verified ledger run at /demo/. It exists so the demo has a public URL that
 works without Docker. The Daml packages, tests and documentation live in the project
 repository, which is published at submission.
 
